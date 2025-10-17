@@ -4,6 +4,7 @@
         'idade': 24,
         'ryos': 320.50,
         'classe': 'Mago',
+        'nivel': '1',
         'familia': 'Loki',
         'habilidades': {
             'ataque': 10,
@@ -19,6 +20,7 @@
         'idade': 15,
         'ryos': 320.50,
         'classe': 'Mago',
+        'nivel': '1',
         'familia': 'Mongólis',
         'habilidades': {
             'ataque': 23,
